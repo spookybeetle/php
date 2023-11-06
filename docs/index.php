@@ -109,7 +109,7 @@ h1:hover::after {
     </head>
     <body>
         
-<div><?php include 'navbar.php';?></div>
+<div><?php include 'php/navbar.php';?></div>
     	
         
     </body>
